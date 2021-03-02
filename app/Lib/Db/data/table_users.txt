@@ -1,0 +1,1 @@
+a:4:{s:2:"id";s:1:"1";s:5:"login";s:9:"ksv180384";s:5:"email";s:19:"ksv180384@yandex.ru";s:8:"password";s:3:"123";}
